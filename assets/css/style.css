@@ -216,6 +216,34 @@ footer {
 .button:hover {
   opacity: 0.7;
 }
+
+/* sort up*/
+.sort_up {
+  color: #001a21;
+  margin-right: 25px;
+  font-size: 22px;
+  text-decoration: none;
+  transition: 0.3s linear;
+  background: #fb2274;
+}
+/* arrow */
+.arrow {
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  height: 40px;
+  line-height: 50px;
+  text-align: center;
+  cursor: pointer;
+  background: #fb2274;
+  border-radius: 50%;
+}
+.arrow img {
+  width: 20px;
+  height: 20px;
+  border-radius: 45%;
+}
+
 /* media querie */
 @media (max-width: 720px) {
   .navbar {
