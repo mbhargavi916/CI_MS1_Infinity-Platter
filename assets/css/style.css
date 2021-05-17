@@ -12,13 +12,13 @@
 
 p {
   margin-bottom: 15px;
-  font-size: 20px;
+  font-size: 14px;
   line-height: 20px;
   color: #2e2d2d;
 }
+
 h1.title {
   margin-top: 20px;
-  margin-bottom: 20px;
   color: #444444;
   font-family: "Allura", cursive;
   text-transform: uppercase;
@@ -141,6 +141,7 @@ h1.title {
   resize: none;
   border: 1px solid #ccc;
 }
+
 /* our team */
 .ourteam {
   padding: 5% 10%;
@@ -153,9 +154,9 @@ h1.title {
   display: flex;
   justify-content: space-between;
 }
-.ourteam_wrapper .team-1 .team {
+/*.ourteam_wrapper .team-1 .team {
   margin-bottom: 25px;
-}
+}*/
 .ourteam_wrapper .team_member {
   width: 30%;
   height: auto;
@@ -166,6 +167,14 @@ h1.title {
   width: 100%;
   display: block;
   height: auto;
+  transform-origin: all 0.5s ease;
+}
+.ourteam_wrapper .team_member:hover img {
+  transform: scale(1.1);
+}
+.ourteam_wrapper .team_member p {
+  padding: 20px 20px;
+  color: #fb2274;
 }
 /* footer */
 footer {
@@ -276,6 +285,7 @@ footer {
 }
 
 /* media querie */
+
 @media (max-width: 720px) {
   .navbar {
     height: auto;
@@ -295,6 +305,12 @@ footer {
   .banner_content {
     margin-top: 35px;
   }
+  .ourteam_wrapper {
+    flex-direction: column;
+  }
+  .button {
+    width: 45%;
+  }
 }
 @media (max-width: 960px) {
   .footer_container {
@@ -307,12 +323,5 @@ footer {
   .left_col {
     width: 100%;
     text-align: center;
-  }
-}
-@media (max-width: 700px) {
-  .button {
-    margin: 0;
-    width: 50%;
-    margin-top: 20px;
   }
 }
