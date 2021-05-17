@@ -142,13 +142,34 @@ h1.title {
   border: 1px solid #ccc;
 }
 /* our team */
-.baker {
+.ourteam {
   padding: 5% 10%;
   text-align: center;
 }
+.ourteam {
+  background: #fcd7d7;
+}
+.ourteam_wrapper .team {
+  display: flex;
+  justify-content: space-between;
+}
+.ourteam_wrapper .team-1 .team {
+  margin-bottom: 25px;
+}
+.ourteam_wrapper .team_member {
+  width: 30%;
+  height: auto;
+  cursor: pointer;
+  overflow: hidden;
+}
+.ourteam_wrapper .team_member img {
+  width: 100%;
+  display: block;
+  height: auto;
+}
 /* footer */
 footer {
-  background: #f5f1f1;
+  background: #f5f5f5;
   padding: 90px 0;
 }
 .footer_container h1 {
@@ -178,11 +199,21 @@ footer {
 .social_media a:hover {
   color: #fb2274;
 }
+
+.contact_details h1 {
+  font-family: "josefin sans", sans-serif;
+  font-size: 26px;
+}
+.footer-font {
+  margin: 20px 0;
+}
 .right_col h1 {
   font-family: "josefin sans", sans-serif;
   font-size: 26px;
 }
-
+.border {
+  margin: 20px 0;
+}
 .newsletter-form {
   display: flex;
   justify-content: center;
