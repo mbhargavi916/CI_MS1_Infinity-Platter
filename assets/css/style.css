@@ -35,7 +35,8 @@ h1.title {
   line-height: 35px;
   margin: 25px auto 0;
   text-align: center;
-  color: #fb2274;
+  color: #001a21;
+  font-weight: 900;
 }
 .main_container {
   position: relative;
@@ -63,7 +64,7 @@ h1.title {
 }
 .navbar .navbar_items ul li a {
   color: #fb2274;
-  font-weight: 600;
+  font-weight: 900;
 }
 /* image */
 .banner_image {
@@ -233,22 +234,22 @@ footer {
   flex: 1;
   padding: 16px 40px;
   font-size: 14px;
-  color: #2e2d2d;
-  background: #ccc;
-  border: none;
-  font-weight: 700;
+  color: #001a21;
+  background: #fff;
+  border: 2px solid #fb2274;
+  font-weight: 900;
   outline: none;
   border-radius: 30px;
 }
 .button {
   padding: 16px 40px;
-  font-size: 14px;
-  color: #fb2274;
+  font-size: 16px;
+  border: 2px solid #fb2274;
   background: #fff;
-  border: none;
-  font-weight: 700;
+  color: #001a21;
+  font-weight: 900;
   outline: none;
-  border-radius: 30px;
+  border-radius: 25px;
   margin-left: 20px;
   cursor: pointer;
   transition: opacity 0.3s linear;
