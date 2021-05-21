@@ -2,6 +2,8 @@
 
 ## [View live site](https://mbhargavi916.github.io/CI_MS1_Infinity-Platter/)
 
+![Responsive mockup of the website](CI_MS1_Infinity-Platter/assets/readme-images/responsive/responsiveimg.png)
+
 ## 2. UXD – User Experience Design
 
 Most celebrations or special occasions call for amazingly delicious cakes, be it a birthday, wedding, anniversaries, farewell, etc. For any celebration, cakes are the best choice, and they are suitable for any place and at any time.We specialize in custom designed
