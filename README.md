@@ -60,7 +60,7 @@ The footer features linked icons for ease of access to social media,contact deta
 
 ### Skeleton
 
-- [Wireframes:](assets/readme-images/wireframes/wireframes.pdf) 1 Page website with 5 main sections :-
+- [Wireframes:](CI_MS1_Infinity-Platter/assets/readme-images/wireframes/) 1 Page website with 5 main sections :-
 
 (Layout changes were made to the final project to make for better responsive design.)
 
@@ -73,3 +73,55 @@ The footer features linked icons for ease of access to social media,contact deta
 ### Surface
 
 #### Colours
+
+#### Typography
+
+I selected 2 different fonts for this site:
+
+1. "Allura", cursive; - For the main headings to bring in a feeling of playfulness and excitement.
+2. "josefin sans", sans-serif; - For the main content for contrast and ease of reading.
+
+#### Images
+
+The images I selected are eye catching with the intention to tickle the taste buds.
+
+### Existing Features
+
+- 1 Page site with 5 main sections.
+- Navigation bar which takes the user to each section and is responsive.
+- Footer with copyright and Social links.
+- Responsive images sized for different screen views.
+- Contact form for custom orders , as well as the possiblity to write a message containing feedback of the cakes and snack items.
+- Our specials section features 3 types.
+- Our Team section where you can see the our CHEFS who are behind delicious items we are making.
+
+## 4. Technologies and Resources Used
+
+### Languages
+
+- [HTML](https://en.wikipedia.org/wiki/HTML)
+- [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+### Frameworks, Libraries & Programs Used
+
+- [Balsamiq](https://balsamiq.com/) was used to create the [wireframes:](assets/readme-images/wireframes/wireframes.pdf) during the design process.
+- [Bootstrap 4.6.0](https://www.bootstrapcdn.com/) This project uses Bootstrap to help with the responsiveness and styling of the website.
+- [Font Awesome](https://www.bootstrapcdn.com/fontawesome/) was used to add icons to the website for UX purposes.
+- [Google Fonts](https://fonts.google.com/) was used to import the fonts that were used throughout the project.
+- [Git](https://git-scm.com/) was used for version control and to Push code to GitHub.
+- [GitHub](https://github.com/) is used to store this project's code after being pushed from Git.
+- [Favicon Generator](https://favicon.io/favicon-generator/) was used for this websites favicon.
+
+### Resources
+
+- [Code Institute](https://codeinstitute.net/) was the main source of information used to create this project.
+- [Code Institute 'Slack' Community](https://slack.com/intl/en-no/) for their general assistance and feedback.
+- [Stack Overflow](https://stackoverflow.com/) was used as a general source of knowledge.
+- [w3schools](https://www.w3schools.com/default.asp) was used as a general source of knowledge.
+- [Google Chrome Developer Tools](https://developer.chrome.com/docs/devtools/) was used throughout the completion of this project to debug, test sizes and layout, and to check responsiveness.
+- [Am I responsive](http://ami.responsivedesign.is/) was used to for the screen shot of the Mockup image in this README.md file.
+- [CSS Tricks](https://css-tricks.com/fluid-width-video/) was used as a general resource, and expecially for the 'Fluid Video width' - to make the video responsive.
+- [Bootstrap Essentials](https://ajgreaves.github.io/bootstrap-grid-demo/) by Anna Greaves for better Bootsrap Grid and responsive understanding.
+- [Using the Bootstrap 4 Grid | BOOTSTRAP 4 TUTORIAL](https://www.youtube.com/watch?v=qmPmwdshCMw) YouTube video tutorial for better Bootsrap Grid and responsive understanding.
+- [MS1 Planning Session](https://www.youtube.com/watch?v=sH0m9N875SU&) YouTube tutorial by Jim Lynx for guidance on how to get started on this project.
+- [Make a README](https://www.makeareadme.com/) was used as a guide for making this README.md file.
