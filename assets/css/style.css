@@ -20,7 +20,7 @@ p {
 
 h1.title {
   margin-top: 20px;
-  color: #444444;
+  color: #fb2274;
   font-family: "Allura", cursive;
   text-transform: uppercase;
   font-size: 38px;
@@ -87,9 +87,7 @@ h1.title {
 .banner_content h1 span {
   color: #fb2274;
 }
-.banner_content p {
-  color: #fffb23;
-}
+
 /* About */
 .about {
   padding: 5% 10%;
