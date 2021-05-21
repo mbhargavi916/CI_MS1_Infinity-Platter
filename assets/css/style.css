@@ -14,7 +14,8 @@ p {
   margin-bottom: 15px;
   font-size: 20px;
   line-height: 20px;
-  color: #2e2d2d;
+  color: #130f16;
+  font-weight: 600;
 }
 
 h1.title {
@@ -61,7 +62,8 @@ h1.title {
   margin: 0 10px; /*added*/
 }
 .navbar .navbar_items ul li a {
-  color: #fff;
+  color: #fb2274;
+  font-weight: 600;
 }
 /* image */
 .banner_image {
@@ -86,7 +88,7 @@ h1.title {
   color: #fb2274;
 }
 .banner_content p {
-  color: #fff;
+  color: #fffb23;
 }
 /* About */
 .about {
