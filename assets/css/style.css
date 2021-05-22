@@ -129,12 +129,14 @@ h1.title {
 }
 
 .form_input {
+  margin-top: 10px;
   margin-bottom: 15px;
+  font-weight: 900;
 }
 .form_input input[type="text"] {
   width: 250px;
   padding: 12px 20px;
-  border: 1px solid #fcd7d7;
+  border: 2px solid #fcd7d7;
 }
 .form_input textarea {
   width: 250px;
@@ -230,11 +232,13 @@ footer {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
+  font-weight: 900;
 }
 .txtb {
   flex: 1;
   padding: 16px 40px;
   font-size: 14px;
+  margin-left: 5px;
   color: #001a21;
   background: #fff;
   border: 2px solid #fb2274;
