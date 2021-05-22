@@ -2,7 +2,7 @@
 
 ## [View live site](https://mbhargavi916.github.io/CI_MS1_Infinity-Platter/)
 
-![Responsive mockup of the website](CI_MS1_Infinity-Platter/assets/readme-images/responsive/responsiveimg.png)
+![Responsive mockup of the website](https://github.com/CI_MS1_Infinity-Platter/assets/readme-images/responsive/responsiveimg.png)
 
 ## 2. UXD – User Experience Design
 
@@ -122,7 +122,6 @@ The images I selected are eye catching with the intention to tickle the taste bu
 - [w3schools](https://www.w3schools.com/default.asp) was used as a general source of knowledge.
 - [Google Chrome Developer Tools](https://developer.chrome.com/docs/devtools/) was used throughout the completion of this project to debug, test sizes and layout, and to check responsiveness.
 - [Am I responsive](http://ami.responsivedesign.is/) was used to for the screen shot of the Mockup image in this README.md file.
-- [CSS Tricks](https://css-tricks.com/fluid-width-video/) was used as a general resource, and expecially for the 'Fluid Video width' - to make the video responsive.
 - [Bootstrap Essentials](https://ajgreaves.github.io/bootstrap-grid-demo/) by Anna Greaves for better Bootsrap Grid and responsive understanding.
 - [Using the Bootstrap 4 Grid | BOOTSTRAP 4 TUTORIAL](https://www.youtube.com/watch?v=qmPmwdshCMw) YouTube video tutorial for better Bootsrap Grid and responsive understanding.
 - [MS1 Planning Session](https://www.youtube.com/watch?v=sH0m9N875SU&) YouTube tutorial by Jim Lynx for guidance on how to get started on this project.
