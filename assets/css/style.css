@@ -63,7 +63,7 @@ h1.title {
   margin: 0 10px; /*added*/
 }
 .navbar .navbar_items ul li a {
-  color: white;
+  color: #fb2274;
   font-weight: 900;
 }
 /* image */
@@ -184,8 +184,8 @@ h1.title {
 .ourteam_wrapper .team_member p {
   margin-top: 10px;
   padding: 20px 20px;
-  background-color: #fb2274;
-  color: #fff;
+  background-color: #fcd7d7;
+  color: #130f16;
 }
 /* footer */
 footer {
