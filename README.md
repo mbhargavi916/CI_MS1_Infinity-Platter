@@ -141,7 +141,7 @@ The CSS of the website was validated using the [W3C CSS Validation Service](http
 
 ### Link Validation
 
-The links of the website (except the Facebook link) were validated using the [W3C Link Checker](https://validator.w3.org/checklink). The Facebook link and twitter link was not checked due to robots exclusion rules, but I validated the link manually. ([See result]())
+The links of the website (except the Facebook link) were validated using the [W3C Link Checker](https://validator.w3.org/checklink). The Facebook link and twitter link was not checked due to robots exclusion rules, but I validated the link manually. ([See result](https://github.com/mbhargavi916/CI_MS1_Infinity-Platter/blob/master/assets/readme-images/testing/link.png))
 
 ### Accessibility
 
@@ -149,4 +149,4 @@ The accessibility of the website was evaluated using the [WAVE Web Accessibility
 
 ### Performance
 
-The overall performance of the website was evaluated using [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/run) ([See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/readme-images/testing/lighthouse.png)), as well as [Web Page Test](https://www.webpagetest.org/). ([See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/readme-images/testing/webpagetest.png))
+The overall performance of the website was evaluated using [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/run) ([See result](https://github.com/mbhargavi916/CI_MS1_Infinity-Platter/blob/master/assets/readme-images/testing/lighthouse.png)), as well as [Web Page Test](https://www.webpagetest.org/). ([See result](https://github.com/mbhargavi916/CI_MS1_Infinity-Platter/blob/master/assets/readme-images/testing/webpagetest.png))
