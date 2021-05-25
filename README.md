@@ -126,3 +126,27 @@ The images I selected are eye catching with the intention to tickle the taste bu
 - [Using the Bootstrap 4 Grid | BOOTSTRAP 4 TUTORIAL](https://www.youtube.com/watch?v=qmPmwdshCMw) YouTube video tutorial for better Bootsrap Grid and responsive understanding.
 - [MS1 Planning Session](https://www.youtube.com/watch?v=sH0m9N875SU&) YouTube tutorial by Jim Lynx for guidance on how to get started on this project.
 - [Make a README](https://www.makeareadme.com/) was used as a guide for making this README.md file.
+
+## 5. Testing
+
+Various tools and validators were used to check that the site works well. Initially a few errors and suggestions resulted after running the URL through these tools and validators, but after correcting and implementing these errors and suggestions, all tests resulted positively.
+
+### HTML Validation
+
+The HTML of the website was validated using the [W3C Markup Validation Service](https://validator.w3.org/). ([See result](https://github.com/mbhargavi916/CI_MS1_Infinity-Platter/blob/master/assets/readme-images/testing/html.png))
+
+### CSS Validation
+
+The CSS of the website was validated using the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/). ([See result](https://github.com/mbhargavi916/CI_MS1_Infinity-Platter/blob/master/assets/readme-images/testing/css.png))
+
+### Link Validation
+
+The links of the website (except the Facebook link) were validated using the [W3C Link Checker](https://validator.w3.org/checklink). The Facebook link and twitter link was not checked due to robots exclusion rules, but I validated the link manually. ([See result]())
+
+### Accessibility
+
+The accessibility of the website was evaluated using the [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/). ([See result](hhttps://github.com/mbhargavi916/CI_MS1_Infinity-Platter/blob/master/assets/readme-images/testing/accessibility.png))
+
+### Performance
+
+The overall performance of the website was evaluated using [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/run) ([See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/readme-images/testing/lighthouse.png)), as well as [Web Page Test](https://www.webpagetest.org/). ([See result](https://github.com/CarlaBuongiorno/MilestoneProject1/blob/master/assets/readme-images/testing/webpagetest.png))
